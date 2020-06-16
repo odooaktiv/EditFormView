@@ -1,6 +1,6 @@
 {
     'name': "Edit Form View",
-    'version': '12.0.1.0.0',
+    'version': '13.0.1.0.0',
     'description': "Edit Form",
     'summary': 'This module will edit form view.',
     'author': 'Aktiv Software',
