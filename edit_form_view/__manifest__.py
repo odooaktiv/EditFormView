@@ -4,7 +4,7 @@
     'description': "Edit Form",
     'summary': 'This module will edit form view.',
     'author': 'Aktiv Software',
-    'category': '',
+    'category': 'Extra Tools',
     'website': 'http://www.aktivsoftware.com',
     'license': "AGPL-3",
     
